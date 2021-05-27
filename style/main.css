@@ -1,0 +1,7 @@
+.representative{
+    display: flex;
+}
+
+.basics{
+    flex-basis: 14%;
+}
